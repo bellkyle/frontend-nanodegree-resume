@@ -1,1 +1,1 @@
-$("#main").append(["Kyle Bell is cool"]);
+$("#main").append(["Kyle Bell"]);
